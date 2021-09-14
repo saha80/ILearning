@@ -1,0 +1,1 @@
+const[n,j,...a]=process.argv;function lcs(e){let l=e.length;if(!l)return"";if(1==l)return e[0];e.sort((e,l)=>e.length-l.length);let t="";for(let l=0;l<e[0].length;l++)for(let n=0;n<e[0].length-l+1;n++)n>t.length&&e.every(t=>t.includes(e[0].slice(l,l+n)))&&(t=e[0].slice(l,l+n));return t}console.log(lcs(a));
