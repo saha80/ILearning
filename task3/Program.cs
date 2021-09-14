@@ -16,7 +16,6 @@ namespace task3
             catch (Exception e)
             {
                 Console.Error.WriteLine(e.Message);
-                Console.WriteLine();
             }
         }
 
@@ -24,7 +23,7 @@ namespace task3
         // {
             // todo: add system languge based usage
 //             Console.Write(
-// "Generalized rock-paper-scissors game (any number of arbitrary combinations)\n" +
+// "\nGeneralized rock-paper-scissors game (any number of arbitrary combinations)\n" +
 // "When the program starts, an odd number of non-repeating lines is transferred\n" +
 // "These lines are moves (for example, Rock Paper Scissors or\n" +
 // "Rock Paper Scissors Lizard Spock or 1 2 3 4 5 6 7 8 9).\n\n" +
