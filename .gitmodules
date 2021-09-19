@@ -4,3 +4,6 @@
 [submodule "task3/task3/rock-paper-scissors"]
 	path = task3/rock-paper-scissors
 	url = https://github.com/saha80/rock-paper-scissors
+[submodule "task3/rock-paper-scissors"]
+	path = task3/rock-paper-scissors
+	url = https://github.com/saha80/rock-paper-scissors
