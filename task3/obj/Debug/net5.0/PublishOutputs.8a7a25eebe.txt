@@ -1,6 +1,0 @@
-C:\Users\Alex\source\repos\itra\task3\bin\Debug\net5.0\publish\task3.exe
-C:\Users\Alex\source\repos\itra\task3\bin\Debug\net5.0\publish\task3.dll
-C:\Users\Alex\source\repos\itra\task3\bin\Debug\net5.0\publish\task3.deps.json
-C:\Users\Alex\source\repos\itra\task3\bin\Debug\net5.0\publish\task3.runtimeconfig.json
-C:\Users\Alex\source\repos\itra\task3\bin\Debug\net5.0\publish\task3.pdb
-C:\Users\Alex\source\repos\itra\task3\bin\Debug\net5.0\publish\ConsoleTables.dll
