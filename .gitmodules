@@ -7,3 +7,6 @@
 [submodule "coursework/math-problems"]
 	path = coursework/math-problems
 	url = https://github.com/saha80/math-problems
+[submodule "task5/rock-paper-scissors-web"]
+	path = task5/rock-paper-scissors-web
+	url = https://github.com/saha80/rock-paper-scissors-web
