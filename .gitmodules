@@ -4,9 +4,6 @@
 [submodule "task3/rock-paper-scissors"]
 	path = task3/rock-paper-scissors
 	url = https://github.com/saha80/rock-paper-scissors
-[submodule ".\\coursework\\math-problems\\"]
-	path = .\\coursework\\math-problems\\
-	url = https://github.com/saha80/math-problems
 [submodule "coursework/math-problems"]
 	path = coursework/math-problems
 	url = https://github.com/saha80/math-problems
